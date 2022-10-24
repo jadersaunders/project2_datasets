@@ -1,4 +1,4 @@
-# Project 2: Visualizing Interesting Datasets 
+# Project 2: Matplotlib & Visualizing Interesting Datasets 
 
 Instructions for this project can be found [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02)
 
