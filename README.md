@@ -5,7 +5,7 @@ Instructions for this project can be found [here](https://github.com/mikeizbicki
 **Plot 1: USA's GDP**
 ![Plot 1]() 
 <!-- insert image above -->
-This data (json) is from [Awesome JSON Datasets](http://api.worldbank.org/v2/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json) in the GDP Category.  61 years worth of data was plotted, from 1960 to 2021.  An upward trend is displayed, indicating an increasing GDP in the US since 1960.
+This data (json) is from [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets) in the [GDP Category](http://api.worldbank.org/v2/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json).  61 years worth of data was plotted, from 1960 to 2021.  An upward trend is displayed, indicating an increasing GDP in the US since 1960.
 
 **Plot 2: Covid Cases vs Deaths in MS, HI, ND and WV**
 ![Plot 2]()
